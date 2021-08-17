@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chanmolita Nuon
 - 👀 I’m interested in cypersecurity and web development
-- 🌱 I’m currently learning Javascript, CSS, HTML and Swift. 
+- 🌱 I’m currently learning iOS Foundations: SwiftUI . 
 - 📫 How to reach me: molitanuon36@gmail.com
 
 <!---
