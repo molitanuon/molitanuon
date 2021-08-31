@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chanmolita Nuon
-- 👀 I’m interested iOS Development
+- 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning iOS Foundations: SwiftUI . 
-- 📫 How to reach me: molitanuon36@gmail.com
+- 📫 How to reach me: chanmolitanuon@gmail.com
 
 <!---
 molitanuon/molitanuon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
