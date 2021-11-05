@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chanmolita Nuon
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning iOS Foundations: SwiftUI . 
+- 👀 I’m interested in iOS Development and Software Development. 
+- 🌱 I’m currently learning iOS Foundations: SwiftUI. 
 - 📫 How to reach me: chanmolitanuon@gmail.com
 
 <!---
